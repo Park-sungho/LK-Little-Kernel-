@@ -26,8 +26,10 @@
 #include <lib/gfx.h>
 #include <compiler.h>
 
-#define FONT_X  6
-#define FONT_Y  12
+//#define FONT_X  6
+//#define FONT_Y  12
+#define FONT_X  16
+#define FONT_Y  32
 
 __BEGIN_CDECLS
 
